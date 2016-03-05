@@ -13,7 +13,7 @@ while read -r line; do
     echo -e "\n\n$file_name"
     echo -e "Contributors: $contributors_number" | xargs
     echo -e "Total edits: ${file[0]}"
-    echo -e "1st contributor: ${num[0]}"
-    echo -e "2nd contributor: ${num[1]}"
+    echo -e "1st contributor edits: ${num[0]}"
+    echo -e "2nd contributor edits: ${num[1]}"
   fi
 done <<< "$git_churn"

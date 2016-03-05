@@ -22,8 +22,8 @@ Example output:
   app/models/user.rb
   Contributors: 27
   Total edits: 164
-  1st contributor: 25
-  2nd contributor: 12
+  1st contributor edits: 25
+  2nd contributor edits: 12
 
 Based on that, one can conclude that there are a few problems with those files.
 * The number of contributors is large, which means that the developer rotation in the organization is also probably to too big which usually affects knowledge retention and thus quality.
