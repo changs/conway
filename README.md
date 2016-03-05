@@ -15,17 +15,17 @@ To run the script, copy it to somewhere in $PATH and then run it from the direct
 
 ## Example output:
 
-  app/models/membership.rb
-  Contributors: 24
-  Total edits: 83
-  1st contributor edits: 10
-  2nd contributor edits: 9
+    app/models/membership.rb
+    Contributors: 24
+    Total edits: 83
+    1st contributor edits: 10
+    2nd contributor edits: 9
 
-  app/models/user.rb
-  Contributors: 27
-  Total edits: 164
-  1st contributor edits: 25
-  2nd contributor edits: 12
+    app/models/user.rb
+    Contributors: 27
+    Total edits: 164
+    1st contributor edits: 25
+    2nd contributor edits: 12
 
 ## Conclusions
 
