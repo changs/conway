@@ -9,9 +9,11 @@ A [study](http://research.microsoft.com/apps/mobile/Publication.aspx?id=70535) t
 This utility tries to measure some of the organizational metrics. Together with a code analysis tool it provides an accurate predictions of failure-proneness in software.
 It checks all files in GIT repository and show statistics for them.
 
+## Usage
+
 To run the script, copy it to somewhere in $PATH and then run it from the directory of your project. 
 
-Example output:
+## Example output:
 
   app/models/membership.rb
   Contributors: 24
@@ -24,6 +26,8 @@ Example output:
   Total edits: 164
   1st contributor edits: 25
   2nd contributor edits: 12
+
+## Conclusions
 
 Based on that, one can conclude that there are a few problems with those files.
 * The number of contributors is large, which means that the developer rotation in the organization is also probably to too big which usually affects knowledge retention and thus quality.
