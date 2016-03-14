@@ -30,7 +30,7 @@ To run the script, copy it to somewhere in $PATH and then run it from the direct
 ## Conclusions
 
 Based on that, one can conclude that there are a few problems with those files.
-* The number of contributors is large, which means that the developer rotation in the organization is also probably to too big which usually affects knowledge retention and thus quality.
+* The number of contributors is large, which means that the developer rotation in the organization is also probably too big which usually affects knowledge retention and thus quality.
 * There probably isn't a single person that has the responsibility over those files.
 * Big number of total edits suggests that the code is not respecting the single responsibility principle.
 * Big number of total edits may also suggests that the requirements change a lot and/or there is a lack of stability.
